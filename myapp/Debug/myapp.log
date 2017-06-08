@@ -1,0 +1,22 @@
+﻿生成启动时间为 2016/5/12 17:13:37。
+     1>项目“G:\码码\ccs_CA\myapp\myapp\myapp.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (myapp.vcxproj, myappA.vcxproj, myappB.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\myappccs.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt myapp.cpp
+         myapp.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\码码\ccs_CA\myapp\Debug\myappccs.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\码码\ccs_CA\myapp\Debug\myappccs.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\码码\ccs_CA\myapp\Debug\myappccs.lib" /MACHINE:X86 Debug\myapp.res
+         Debug\Chess.obj
+         Debug\ClientNet.obj
+         Debug\ClientSocket.obj
+         Debug\myapp.obj
+         Debug\myappDlg.obj
+         Debug\ServerData.obj
+         Debug\ServerNet.obj
+         Debug\stdafx.obj
+         myapp.vcxproj -> G:\码码\ccs_CA\myapp\Debug\myappccs.exe
+     1>已完成生成项目“G:\码码\ccs_CA\myapp\myapp\myapp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36

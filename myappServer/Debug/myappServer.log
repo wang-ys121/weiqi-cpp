@@ -1,0 +1,26 @@
+﻿生成启动时间为 2016/5/12 16:38:41。
+     1>项目“G:\码码\ccs_CA\myapp\myappServer\myappServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\myappServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\myappServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ListenSocket.cpp myappServer.cpp myappServerDlg.cpp NewSocket.cpp
+         NewSocket.cpp
+         myappServerDlg.cpp
+         myappServer.cpp
+         ListenSocket.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\myappServer.res" myappServer.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\码码\ccs_CA\myapp\Debug\myappServer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"G:\码码\ccs_CA\myapp\Debug\myappServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\码码\ccs_CA\myapp\Debug\myappServer.lib" /MACHINE:X86 Debug\myappServer.res
+         Debug\ListenSocket.obj
+         Debug\myappServer.obj
+         Debug\myappServerDlg.obj
+         Debug\NewSocket.obj
+         Debug\stdafx.obj
+         myappServer.vcxproj -> G:\码码\ccs_CA\myapp\Debug\myappServer.exe
+     1>已完成生成项目“G:\码码\ccs_CA\myapp\myappServer\myappServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.86
