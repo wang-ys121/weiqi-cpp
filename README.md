@@ -2,7 +2,7 @@ weiqi-cpp
 ---
 # 围棋
 
-`wang-ys121` `围棋`
+`wonyoungsen` `围棋`
 
 ## 说明
 
